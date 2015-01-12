@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>cyrevolt</name>
+		<description>a decent overlay for more fun and less profit</description>
+		<homepage>https://github.com/cyrevolt/</homepage>
+		<owner>
+			<name>Daniel Maslowski</name>
+		</owner>
+		<source type="git">https://github.com/cyrevolt/gentoo-overlay.git</source>
+	</repo>
+</repositories>
